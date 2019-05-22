@@ -1,2 +1,11 @@
-# 3D-Model-of-Fudan-Landmark-Guanghua-Twin-Tower
-The 3D model of A Landmark Building of Fudan University (Guanghua Twin Tower)
+# 3D-Model-of-Fudan-Landmarks
+
+![](./misc/cover.png)
+
+This is a 3D model of a landmark building in Fudan University - Guanghua Twin Towers ([复旦大学光华楼](http://www.fudan.edu.cn/entries/view/731/))
+
+The model is from my final project in <b>CAD Engineering Design</b> (COMP110007) lectutred by Professor Xiaoguang Sun, which was designed by Creo 2.0. The stl file is provided for downloading.
+
+
+
+
